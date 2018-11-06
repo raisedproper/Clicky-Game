@@ -1,0 +1,12 @@
+.wrapper {
+  padding-top: 50px;
+  background-image: url('https://s.tmimgcdn.com/blog/wp-content/uploads/2017/05/gradient.jpg?x54449');
+  height: 100%;
+  display: flex;
+  flex: 1;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
